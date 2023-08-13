@@ -1,1 +1,1 @@
-const hermano = "Mariano Francisco Ferraro";
+const hermano = "Mariano Francisco";
